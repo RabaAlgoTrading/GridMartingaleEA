@@ -1,1 +1,4 @@
-This is just a file of one of my projects.
+Grid Martingale EA
+-------------------
+
+This is a trading algorithm which executes a highly configurable grid martingale strategy.
